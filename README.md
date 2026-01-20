@@ -43,8 +43,8 @@ A modular Retrieval-Augmented Generation (RAG) system that allows users to uploa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/bijay-odyssey/Personal-Knowledge-Base-RAG-API.git
+   cd Personal-Knowledge-Base-RAG-API
    ```
 
 2. Create and activate a virtual environment:

@@ -1,0 +1,26 @@
+# Core RAG & Embeddings 
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4           
+qdrant-client>=1.7.0       
+
+# LLM / Generation
+groq>=0.9.0
+
+# Document parsing
+PyPDF2>=3.0.0             
+
+# FastAPI & API server
+fastapi>=0.100.0
+uvicorn>=0.22.0
+python-multipart>=0.0.6   
+
+# Utilities & typing
+PyYAML>=6.0               
+numpy>=1.23.0
+scikit-learn>=1.2.0       
+
+pydantic>=2.0             
+loguru>=0.7.0            
+python-dotenv>=1.0.0      
+
+nltk>=3.8.1                 

@@ -1,4 +1,3 @@
-```markdown
 # Personal Knowledge Base RAG API
 
 A modular Retrieval-Augmented Generation (RAG) system that allows users to upload TXT or PDF documents and query them using natural language questions. The API is built with FastAPI and uses local vector storage (FAISS or Qdrant), sentence-transformers embeddings, optional cross-encoder reranking, and Groq for fast LLM inference.
